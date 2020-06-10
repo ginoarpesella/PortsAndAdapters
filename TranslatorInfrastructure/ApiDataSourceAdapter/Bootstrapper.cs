@@ -9,7 +9,7 @@ namespace TranslatorInfrastructure.ApiDataSourceAdapter
         /*
         protected override void Load(ContainerBuilder builder)
         {
-            register all your adapters here
+            register all your adapters implementations here 
         }
         */
     }

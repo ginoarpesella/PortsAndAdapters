@@ -6,6 +6,7 @@ using TranslatorDomain;
 
 namespace TranslatorApplication.Commands.Translate
 {
+    // this is the port implementation
     public class TranslateLogic : ITranslateLogic
     {
         private readonly ITranslateDataSource _dataSource;
